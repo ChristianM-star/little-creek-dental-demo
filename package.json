@@ -1,0 +1,1 @@
+{"name":"little-creek-dental-redesign-demo","private":true,"version":"1.0.0","scripts":{"dev":"python -m http.server 4173","start":"python -m http.server 4173"}}
